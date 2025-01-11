@@ -6,3 +6,5 @@ I am passionate about learning and pursuing a career in DevOps. With a backgroun
 
 
 expect to learn the core principles and practices of DevOps. hoping  to gain hands-on experience with essential tools such as Git, Docker, Kubernetes, and CI/CD pipelines, as well as a deeper understanding of cloud environments like AWS
+
+Signed-off-by: Author Name <ogemdiobed@gmail.com>
